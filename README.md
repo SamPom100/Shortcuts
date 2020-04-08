@@ -15,6 +15,7 @@ Reverse Image Search: Takes a file or URL, uploads to IMGUR, then searches it on
 
 Get Sauce: More versitile Reverse Image Search with more database options.
 
+### Links
 
 iCloud Link to 'Import Shortcut'
 
