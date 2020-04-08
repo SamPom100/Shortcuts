@@ -1,10 +1,10 @@
 # Shortcuts
 Cool Siri shortcuts
-
-
-
-
-
+.
+.
+.
+.
+.
 Descriptions:
 
 
