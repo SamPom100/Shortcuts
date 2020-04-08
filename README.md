@@ -1,6 +1,19 @@
 # Shortcuts
-Cool siri shortcuts
+Cool Siri shortcuts
 
 
-These shortcuts are exported through the 'Export Shortcuts' shortcut directly from Siri Shortcuts.
-They're saved as XML / HTML, and are importable through the 'Import Shortcuts' directly to your Siri Shortcuts app.
+
+
+
+Descriptions:
+
+
+Export Shortcut: Exports Siri Shortcuts from their native app as an XML or HTML file.
+
+Import Shortcut: Converts XML / HTML to a useable shortcut.
+
+Get Cuties: Parses subreddits and extracts images, prompts you to review and save them.
+
+Reverse Image Search: Takes a file or URL, uploads to IMGUR, then searches it on SAUCENAO
+
+Get Sauce: More versitile Reverse Image Search with more database options.
